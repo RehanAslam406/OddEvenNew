@@ -1,0 +1,6 @@
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\bin\Debug\evenOdd.exe.config
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\bin\Debug\evenOdd.exe
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\bin\Debug\evenOdd.pdb
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\obj\Debug\evenOdd.csprojResolveAssemblyReference.cache
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\obj\Debug\evenOdd.exe
+c:\users\rehan aslam\documents\visual studio 2015\Projects\evenOdd\evenOdd\obj\Debug\evenOdd.pdb
